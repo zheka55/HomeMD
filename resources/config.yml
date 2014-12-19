@@ -1,0 +1,4 @@
+# Config file for MD_HOME by ZHEKA55;
+
+# The item that players can use to go to their home; Default: Compass (ID: 345)
+item: 345
